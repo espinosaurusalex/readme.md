@@ -12,10 +12,6 @@
 **Sou estudante de ads, tenho 22 anos e estou ainda no básico da programação entrando nesse mundo! Atualmente desenvolvo em HTML, CSS e vou começar a desenvolver em C# na faculdade! Estou aprendendo ruby também. !!**
 
 
-![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/user-attachments/assets/23cb3ce7-16e9-4b59-ba6f-14614cda737d)
-
-
-
 
 ## Quem sou eu?
 
@@ -33,7 +29,7 @@ _Além disso amo Biologia e gosto muito de universos novos e leitura!_
   <li>1 ano e 2 meses</li>
   <li>Atualmente trabalho aqui</li>
 
-  ![08053f69eb1664dfe45d3b08257543b4](https://github.com/user-attachments/assets/91617305-6dcc-4839-a3aa-3ae88992d4e8)
+
 
  
 </ul>
